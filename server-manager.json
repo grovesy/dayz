@@ -11,7 +11,7 @@
      * 3 - WARN - warning and errors
      * 4 - ERROR - only errors
      */
-  "loglevel": 1,
+  "loglevel": 0,
   ///////////////////////////// Admins ////////////////////////////////////////
   /**
      * The web or discord users allowed to use the web interface or the bot commands and which of them
@@ -331,85 +331,84 @@
   /**
      * List of Mod IDs (workshop id, not modname!) to be downloaded from steam and used as mods.
      */
-     "steamWsMods": [
-      {
-        "workshopId": "1559212036",
-        "name": "CF"
-      },
-      {
-         "workshopId": "1564026768",
-         "name": "Community-Online-Tools"
-      },      
-      {
-         "workshopId": "2545327648",
-         "name": "DABS Framework"
-      },      
-      {
-        "workshopId": "1565871491",
-        "name": "BuilderItems"
-      },
-      {
-         "workshopId": "1828439124",
-         "name": "VPPAdminTools"
-      },
-      {
-         "workshopId": "2291785308",
-         "name": "DayZ-Expansion-Core"
-      },
-      {
-         "workshopId": "2792982069",
-         "name": "DayZ-Expansion-AI"
-      },
-      {
-         "workshopId": "2572324799",
-         "name": "DayZ-Expansion-Book"
-      },
-      {
-         "workshopId": "2792982897",
-         "name": "DayZ-Expansion-Chat"
-      },
-      {
-         "workshopId": "2792983364",
-         "name": "DayZ-Expansion-Groups"
-      },
-      {
-         "workshopId": "2828487396",
-         "name": "DayZ-Expansion-Hardline"
-      },
-      {
-         "workshopId": "2792984177",
-         "name": "DayZ-Expansion-Missions"
-      },
-      {
-         "workshopId": "2576460232",
-         "name": "DayZ-Expansion-Name-Tags"
-      },
-      {
-         "workshopId": "2792984722",
-         "name": "DayZ-Expansion-Navigation"
-      },
-      {
-         "workshopId": "2946236937",
-         "name": "DayZ-Expansion-Personal-Storage"
-      },
-      {
-         "workshopId": "2828486817",
-         "name": "DayZ-Expansion-Quests"
-      },
-      {
-         "workshopId": "2804241648",
-         "name": "DayZ-Expansion-Spawn-Selection"
-      },
-      {
-         "workshopId": "1710977250",
-         "name": "BaseBuildingPlus"
-      }
-    ],
+  "steamWsMods": [
+    {
+      "workshopId": "1559212036",
+      "name": "CF"
+    },
+    {
+      "workshopId": "1564026768",
+      "name": "Community-Online-Tools"
+    },
+    {
+      "workshopId": "2545327648",
+      "name": "DABS Framework"
+    },
+    {
+      "workshopId": "1565871491",
+      "name": "BuilderItems"
+    },
+    {
+      "workshopId": "1828439124",
+      "name": "VPPAdminTools"
+    },
+    {
+      "workshopId": "2291785308",
+      "name": "DayZ-Expansion-Core"
+    },
+    {
+      "workshopId": "2792982069",
+      "name": "DayZ-Expansion-AI"
+    },
+    {
+      "workshopId": "2572324799",
+      "name": "DayZ-Expansion-Book"
+    },
+    {
+      "workshopId": "2792982897",
+      "name": "DayZ-Expansion-Chat"
+    },
+    {
+      "workshopId": "2792983364",
+      "name": "DayZ-Expansion-Groups"
+    },
+    {
+      "workshopId": "2828487396",
+      "name": "DayZ-Expansion-Hardline"
+    },
+    {
+      "workshopId": "2792984177",
+      "name": "DayZ-Expansion-Missions"
+    },
+    {
+      "workshopId": "2576460232",
+      "name": "DayZ-Expansion-Name-Tags"
+    },
+    {
+      "workshopId": "2792984722",
+      "name": "DayZ-Expansion-Navigation"
+    },
+    {
+      "workshopId": "2946236937",
+      "name": "DayZ-Expansion-Personal-Storage"
+    },
+    {
+      "workshopId": "2828486817",
+      "name": "DayZ-Expansion-Quests"
+    },
+    {
+      "workshopId": "2804241648",
+      "name": "DayZ-Expansion-Spawn-Selection"
+    },
+    {
+      "workshopId": "1710977250",
+      "name": "BaseBuildingPlus"
+    }
+  ],
   /**
      * List of Mod IDs (workshop id, not modname!) to be downloaded from steam and used as server mods.
      */
   "steamWsServerMods": [],
-  
   /**
      * Whether or not to check for mod updates on each server restart
      */
@@ -635,33 +634,35 @@
      * serverCfg
      */
   "serverCfg": {
-    "hostname": "Grovesy's server",
-    "maxPlayers": 60,
-    "motd": [],
-    "motdInterval": 1,
+    "hostname": "Odinn's Den",
+    "instanceId": 1,
     "password": "",
-    "passwordAdmin": "FlippleHam12",
-    "enableWhitelist": 0,
+    "passwordAdmin": "",
+    "maxPlayers": 10,
     "verifySignatures": 2,
     "forceSameBuild": 1,
-    "guaranteedUpdates": 1,
     "disableVoN": 0,
-    "vonCodecQuality": 20,
+    "vonCodecQuality": 7,
     "disable3rdPerson": 0,
     "disableCrosshair": 0,
-    "disableRespawnDialog": 0,
-    "respawnTime": 5,
-    "enableDebugMonitor": 1,
-    "disablePersonalLight": 1,
-    "lightingConfig": 0,
     "serverTime": "SystemTime",
-    "serverTimeAcceleration": 12,
-    "serverNightTimeAcceleration": 1,
-    "serverTimePersistent": 0,
+    "serverTimeAcceleration": 1,
+    "serverTimePersistent": 1,
+    "guaranteedUpdates": 1,
     "loginQueueConcurrentPlayers": 5,
     "loginQueueMaxPlayers": 500,
-    "instanceId": 1,
+    "respawnTime": 5,
+    "motdInterval": 1,
+    "maxPing": 200,
+    "timeStampFormat": "Short",
+    "logAverageFps": 1,
+    "logMemory": 1,
+    "logPlayers": 1,
+    "logFile": "server_console.log",
+    "lootHistory": 1,
+    "storeHouseStateDisabled": false,
     "storageAutoFix": 1,
+    "motd": [],
     "Missions": {
       "DayZ": {
         "template": "dayzOffline.chernarusplus"
