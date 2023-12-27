@@ -11,7 +11,7 @@
      * 3 - WARN - warning and errors
      * 4 - ERROR - only errors
      */
-  "loglevel": 1,
+  "loglevel": 0,
   ///////////////////////////// Admins ////////////////////////////////////////
   /**
      * The web or discord users allowed to use the web interface or the bot commands and which of them
