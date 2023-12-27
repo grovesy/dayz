@@ -1,0 +1,9 @@
+server-manager-logs
+SteamCMD
+SteamMeta
+Workshop
+
+
+DayZServer/*
+!DayZServer/mpmissions/
+
