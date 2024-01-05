@@ -1,8 +1,10 @@
+*.log
+*.db
+
 server-manager-logs
 SteamCMD
 SteamMeta
 Workshop
-
 
 DayZServer/*
 !DayZServer/mpmissions/Expansion.chernarusplus

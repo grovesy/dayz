@@ -1,5 +1,0 @@
-Unplanned exit - 1 - Error
-    at process.exit (C:\snapshot\dayz-server-manager\dist\util\exit-capture.js:10:101)
-    at process.<anonymous> (C:\snapshot\dayz-server-manager\dist\index.js:25:17)
-    at process.emit (node:events:527:28)
-    at process._fatalException (node:internal/process/execution:167:25)
