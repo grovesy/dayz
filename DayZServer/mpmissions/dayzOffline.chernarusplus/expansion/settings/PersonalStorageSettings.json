@@ -59,7 +59,8 @@
                         "SodaCan_ColorBase",
                         "WaterBottle",
                         "Canteen",
-                        "Vodka"
+                        "Vodka",
+                        "ExpansionMilkBottle"
                     ],
                     "Excluded": []
                 },
@@ -437,7 +438,9 @@
                 "ExplosivesBase",
                 "RemoteDetonator",
                 "RemoteDetonatorTrigger",
-                "RemoteDetonatorTrigger"
+                "RemoteDetonatorTrigger",
+                "ExpansionSatchel",
+                "M18SmokeGrenade_ColorBase"
             ],
             "Excluded": [],
             "SubCategories": []
@@ -449,7 +452,42 @@
                 "CarScript"
             ],
             "Excluded": [],
-            "SubCategories": []
+            "SubCategories": [
+                {
+                    "DisplayName": "Cars",
+                    "IconPath": "set:dayz_inventory image:cat_vehicle_body",
+                    "Included": [
+                        "OffroadHatchback",
+                        "Hatchback_02",
+                        "Sedan_02",
+                        "CivilianSedan",
+                        "Truck_01_Base",
+                        "Offroad_02",
+                        "ExpansionTractor",
+                        "ExpansionUAZ",
+                        "ExpansionBus",
+                        "ExpansionVodnik",
+                        "Expansion_Landrover"
+                    ],
+                    "Excluded": []
+                },
+                {
+                    "DisplayName": "Helicopters",
+                    "IconPath": "set:dayz_inventory image:cat_vehicle_body",
+                    "Included": [
+                        "ExpansionHelicopterScript"
+                    ],
+                    "Excluded": []
+                },
+                {
+                    "DisplayName": "Boats",
+                    "IconPath": "set:dayz_inventory image:cat_vehicle_body",
+                    "Included": [
+                        "ExpansionBoatScript"
+                    ],
+                    "Excluded": []
+                }
+            ]
         },
         {
             "DisplayName": "Weapons",
@@ -487,7 +525,9 @@
                         "M4A1_Base",
                         "M16A2_Base",
                         "Famas_Base",
-                        "Aug_Base"
+                        "Aug_Base",
+                        "Expansion_M16_Base",
+                        "Expansion_G36_Base"
                     ],
                     "Excluded": []
                 },
@@ -510,7 +550,10 @@
                         "CZ527_Base",
                         "CZ550_Base",
                         "Winchester70_Base",
-                        "SSG82_Base"
+                        "SSG82_Base",
+                        "Expansion_Kar98_Base",
+                        "Expansion_M14_Base",
+                        "Expansion_M1A_Base"
                     ],
                     "Excluded": []
                 },
@@ -534,7 +577,8 @@
                         "VSS_Base",
                         "B95_base",
                         "SVD_Base",
-                        "Scout_Base"
+                        "Scout_Base",
+                        "Expansion_AWM"
                     ],
                     "Excluded": []
                 }
