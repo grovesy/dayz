@@ -8,3 +8,5 @@ Workshop
 
 DayZServer/*
 !DayZServer/mpmissions
+
+storage_*.*

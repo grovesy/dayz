@@ -57,49 +57,59 @@
    "backupMaxAge": 7,
    "steamCmdPath": "SteamCMD",
    "steamUsername": "ggrovesy",
-   "steamPassword": "",
+   "steamPassword": "maraudingKillerRabbits12",
    "steamWorkshopPath": "Workshop",
    "steamMetaPath": "SteamMeta",
    "steamWsMods": [
       {
          "workshopId": "1559212036",
-         "name": "CF"
+         "name": "CF",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036"                 
       },
       {
          "workshopId": "1564026768",
-         "name": "Community-Online-Tools"
+         "name": "Community-Online-Tools",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768"         
       },
       {
          "workshopId": "2545327648",
-         "name": "DABS Framework"
+         "name": "DABS Framework",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648"
       },
       {
          "workshopId": "1565871491",
-         "name": "BuilderItems"
+         "name": "BuilderItems",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1565871491"
       },
       {
          "workshopId": "2116157322",
-         "name": "DayZ-Expansion-Licensed"
+         "name": "DayZ-Expansion-Licensed",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116157322"
       },
       {
          "workshopId": "2572331007",
-         "name": "DayZ-Expansion-Bundle"
+         "name": "DayZ-Expansion-Bundle",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007"
       },
       {
          "workshopId": "1564026768",
-         "name": "Community-Online-Tools"
+         "name": "Community-Online-Tools",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768"
       },
       {
          "workshopId": "1828439124",
-         "name": "VPPAdminTools"
+         "name": "VPPAdminTools",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1828439124"
       },
       {
          "workshopId": "1710977250",
-         "name": "BaseBuildingPlus"
+         "name": "BaseBuildingPlus",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1710977250"
       },
       {
          "workshopId": "1896597833",
-         "name": "BaseBuildingItemStackandRepair"
+         "name": "BaseBuildingItemStackandRepair",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1896597833"
       },
       {
          "workshopId": "1646187754",
