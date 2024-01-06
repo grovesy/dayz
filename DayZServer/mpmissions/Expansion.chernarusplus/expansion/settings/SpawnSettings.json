@@ -279,35 +279,25 @@
     ],
     "StartingClothing": {
         "EnableCustomClothing": 1,
-        "SetRandomHealth": 1,
-        "Headgear": [],
+        "SetRandomHealth": 0,
+        "Headgear": [
+            "LeatherHat_Brown"
+        ],
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green",
-            "TShirt_Blue",
-            "TShirt_Black",
-            "TShirt_Beige",
-            "TShirt_Red",
-            "TShirt_OrangeWhiteStripes",
-            "TShirt_White",
-            "TShirt_Red",
-            "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "HuntingJacket_Brown",
+            "HuntingJacket_Spring"
         ],
-        "Vests": [],
-        "Gloves": [],
+        "Vests": [
+            "HuntingVests"
+        ],
+        "Gloves": [
+            "LeatherGloves_Brown"
+        ],
         "Pants": [
-            "CanvasPants_Beige",
-            "CanvasPants_Blue",
-            "CanvasPants_Grey",
-            "CanvasPants_Red",
-            "CanvasPants_Violet",
-            "CanvasPantsMidi_Beige",
-            "CanvasPantsMidi_Blue",
-            "CanvasPantsMidi_Grey",
-            "CanvasPantsMidi_Red",
-            "CanvasPantsMidi_Violet"
+            "HunterPants_Spring",
+            "HunterPants_Brown"
         ],
         "Belts": [],
         "Shoes": [
@@ -319,10 +309,7 @@
         ],
         "Armbands": [],
         "Backpacks": [
-            "TaloonBag_Blue",
-            "TaloonBag_Green",
-            "TaloonBag_Orange",
-            "TaloonBag_Violet"
+            "HuntingBag"
         ]
     },
     "EnableSpawnSelection": 1,
@@ -330,7 +317,7 @@
     "StartingGear": {
         "EnableStartingGear": 1,
         "ApplyEnergySources": 1,
-        "SetRandomHealth": 1,
+        "SetRandomHealth": 0,
         "UpperGear": [
             {
                 "ClassName": "Rag",
@@ -341,13 +328,43 @@
                 "ClassName": "Apple",
                 "Quantity": -1,
                 "Attachments": []
+            },
+            {
+                "ClassName": "TacticalBaconCan",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "TacticalBaconCan",
+                "Quantity": -1,
+                "Attachments": []
             }
         ],
-        "PantsGear": [],
-        "BackpackGear": [],
+        "PantsGear": [
+            {
+                "ClassName": "Ammo_308WinTracer",
+                "Quantity": 20,
+                "Attachments": []
+            }
+        ],
+        "BackpackGear": [
+            {
+                "ClassName": "CanOpener",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
         "VestGear": [],
-        "PrimaryWeapon": {},
-        "SecondaryWeapon": {}
+        "PrimaryWeapon": {
+            "ClassName": "Winchester70",
+            "Quantity": -1,
+            "Attachments": []
+        },
+        "SecondaryWeapon": {
+            "ClassName": "Hatchet",
+            "Quantity": -1,
+            "Attachments": []
+        }
     },
     "UseLoadouts": 0,
     "MaleLoadouts": [
@@ -362,9 +379,9 @@
             "Chance": 1.0
         }
     ],
-    "SpawnHealthValue": 100.0,
-    "SpawnEnergyValue": 500.0,
-    "SpawnWaterValue": 500.0,
+    "SpawnHealthValue": 500.0,
+    "SpawnEnergyValue": 1000.0,
+    "SpawnWaterValue": 1000.0,
     "EnableRespawnCooldowns": 1,
     "RespawnCooldown": 120,
     "TerritoryRespawnCooldown": 240,

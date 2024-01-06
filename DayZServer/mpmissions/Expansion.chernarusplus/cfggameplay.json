@@ -2,8 +2,8 @@
 	"version": 122,
 	"GeneralData":
 	{
-		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableBaseDamage": true,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
@@ -12,10 +12,10 @@
 		"disablePersonalLight": false,
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
+			"sprintStaminaModifierErc": 0.001,
+			"sprintStaminaModifierCro": 0.001,
 			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
+			"staminaMax": 10000.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
 			"staminaMinCap": 5.0,
 			"sprintSwimmingStaminaModifier": 1.0,
