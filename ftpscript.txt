@@ -1,0 +1,11 @@
+open 192.168.100.101
+
+user1
+
+demo
+
+lcd c:\ftpuploads
+
+put samplefile.txt
+
+quit

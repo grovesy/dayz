@@ -8,5 +8,11 @@ Workshop
 
 DayZServer/*
 !DayZServer/mpmissions
+!DayZServer/profiles/ExpansionMod/Tradres
+!DayZServer/profiles/ExpansionMod/Market
+!DayZServer/profiles/ExpansionMod/Settings
+
+!DayZServer/profiles/KOTH
+!DayZServer/profiles/KOTH/Logs
 
 **/storage*
