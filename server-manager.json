@@ -1,6 +1,6 @@
 {
    "instanceId": "1",
-   "loglevel": 0,
+   "loglevel": 1,
    "admins": [
       {
          "userId": "admin",
@@ -9,9 +9,9 @@
       }
    ],
    "webPort": 0,
-   "publishWebServer": true,
+   "publishWebServer": false,
    "ingameApiPort": 0,
-   "publishIngameApi": true,
+   "publishIngameApi": false,
    "ingameApiHostOverride": null,
    "ingameApiKey": "",
    "syberiaCompat": false,
