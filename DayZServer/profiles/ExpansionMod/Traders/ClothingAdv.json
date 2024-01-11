@@ -1,16 +1,19 @@
 {
     "m_Version": 11,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPRAYCANS",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Bottle",
+    "TraderIcon": "Backpack",
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Spraycans"
+        "Ghillies",        
+        "MMG_Gear",
+        "MMG_Gear_Patches",
+        "Winstrider"
     ],
     "Items": {}
 }

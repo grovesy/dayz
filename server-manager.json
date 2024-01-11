@@ -259,12 +259,12 @@
          "workshopId": "2831742849",
          "name": "PVEZ Reloaded",
          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2831742849"
+      },
+      {
+         "workshopId": "2485015982",
+         "name": "Radioactive Animals",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2485015982"
       }
-      // {
-      //    "workshopId": "3013625677",
-      //    "name": "BigRicks BlackMarket",
-      //    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013625677"
-      // }
    ],
    "steamWsServerMods": [],
    "updateModsBeforeServerStart": true,

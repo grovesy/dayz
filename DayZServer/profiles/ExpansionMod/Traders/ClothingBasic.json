@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -25,12 +25,9 @@
         "Gloves",
         "Bandanas",
         "Masks",
-        "Vests",
-        "Holsters_And_Pouches",
+        "Vests",        
         "Ghillies",
-        "Belts",
-        "MMG_Gear",
-        "MMG_Gear_Patches"
+        "Belts"
     ],
     "Items": {}
 }
