@@ -9,9 +9,9 @@
       }
    ],
    "webPort": 0,
-   "publishWebServer": false,
+   "publishWebServer": true,
    "ingameApiPort": 0,
-   "publishIngameApi": false,
+   "publishIngameApi": true,
    "ingameApiHostOverride": null,
    "ingameApiKey": "",
    "syberiaCompat": false,
