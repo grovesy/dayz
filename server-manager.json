@@ -57,19 +57,19 @@
    "backupMaxAge": 7,
    "steamCmdPath": "SteamCMD",
    "steamUsername": "ggrovesy",
-   "steamPassword": "maraudingKillerRabbits12",
+   "steamPassword": "",
    "steamWorkshopPath": "Workshop",
    "steamMetaPath": "SteamMeta",
    "steamWsMods": [
       {
          "workshopId": "1559212036",
          "name": "CF",
-         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036"                 
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036"
       },
       {
          "workshopId": "1564026768",
          "name": "Community-Online-Tools",
-         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768"         
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768"
       },
       {
          "workshopId": "2545327648",
@@ -105,7 +105,7 @@
          "workshopId": "2276010135",
          "name": "DayZ Editor Loader",
          "url": "https://steamcommunity.com/workshop/filedetails/?id=2276010135"
-      },      
+      },
       {
          "workshopId": "1710977250",
          "name": "BaseBuildingPlus",
@@ -254,7 +254,12 @@
          "workshopId": "2868091107",
          "name": "GSC Gameworld Assets",
          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2868091107"
-      },            
+      },
+      {
+         "workshopId": "2831742849",
+         "name": "PVEZ Reloaded",
+         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2831742849"
+      }
       // {
       //    "workshopId": "3013625677",
       //    "name": "BigRicks BlackMarket",

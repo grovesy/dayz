@@ -13,12 +13,20 @@ DayZServer/profiles/*
 
 DayZServer/profiles/ExpansionMod/*
 !DayZServer/profiles/ExpansionMod
-
-
 !DayZServer/profiles/ExpansionMod/Traders
 !DayZServer/profiles/ExpansionMod/Market
 !DayZServer/profiles/ExpansionMod/Settings
+
 !DayZServer/profiles/KOTH
 !DayZServer/profiles/KOTH/Logs
+!DayZServer/profiles/DNA_Keycards
+
+!DayZServer/profiles/DNA_Keycards
+!DayZServer/profiles/DrugPLUS
+!DayZServer/profiles/CannabisPlus
+!DayZServer/profiles/CannabisPlus
+!DayZServer/profiles/PVEZ
+
+
 
 **/storage*
