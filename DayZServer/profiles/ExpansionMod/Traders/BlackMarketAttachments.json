@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "DisplayName": "BlackMarketWeapons",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -10,14 +10,26 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [        
-        "Assault_Rifles",
-        "Submachine_Guns",
-        "Rifles",
-        "Pistols",
-        "Sniper_Rifles",
-        "Shotguns",
-        "Crossbows",
-        "Melee_Weapons"        
+        "Morty_Suppressors",
+        "Morty_Scopes",
+        "Morty_Extras",
+        "Morty_Ammo",
+        "Morty_Mags",            
+        "Snafu_Ammo",
+        "Snafu_Bipods",
+        "Snafu_Extras",
+        "Snafu_Grips",
+        "Snafu_Handguards",
+        "Snafu_Mags",
+        "Snafu_Scopes",
+        "Snafu_Stocks",
+        "Snafu_Suppressors",
+        "Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
     ],
     "Items": {
         "expansionammorpg": 3,
