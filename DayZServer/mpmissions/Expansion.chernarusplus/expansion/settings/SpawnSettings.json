@@ -342,8 +342,23 @@
         ],
         "PantsGear": [
             {
-                "ClassName": "Ammo_308WinTracer",
-                "Quantity": 20,
+                "ClassName": "AmmoBox_380_35rnd",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "AmmoBox_380_35rnd",
+                "Quantity": -1,
+                "Attachments": []
+            },                        
+            {
+                "ClassName": "Mag_CZ61_20Rnd",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Mag_CZ61_20Rnd",
+                "Quantity": -1,
                 "Attachments": []
             }
         ],
@@ -356,7 +371,7 @@
         ],
         "VestGear": [],
         "PrimaryWeapon": {
-            "ClassName": "Winchester70",
+            "ClassName": "CZ61",
             "Quantity": -1,
             "Attachments": []
         },
