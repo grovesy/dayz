@@ -16,13 +16,57 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "constructionhelmet_orange",
-                "constructionhelmet_red",
-                "constructionhelmet_white",
-                "constructionhelmet_yellow",
-                "constructionhelmet_lime"
             ]
         },
+        {
+            "ClassName": "constructionhelmet_orange",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },        
+        {
+            "ClassName": "constructionhelmet_red",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },   
+        {
+            "ClassName": "constructionhelmet_white",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                       
+            
+        {
+            "ClassName": "constructionhelmet_yellow",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },        
         {
             "ClassName": "constructionhelmet_lime",
             "MaxPriceThreshold": 66,
@@ -44,12 +88,60 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "skatehelmet_gray",
-                "skatehelmet_red",
-                "skatehelmet_black",
-                "skatehelmet_green"
+
             ]
         },
+        {
+            "ClassName": "skatehelmet_gray",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        }, 
+        {
+            "ClassName": "skatehelmet_red",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },
+        {
+            "ClassName": "skatehelmet_black",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },  
+        {
+            "ClassName": "skatehelmet_green",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                                      
         {
             "ClassName": "skatehelmet_black",
             "MaxPriceThreshold": 94,
@@ -133,14 +225,43 @@
                 "dirtbikehelmet_visor"
             ],
             "Variants": [
-                "dirtbikehelmet_police",
+            ]
+        },
+        {
+            "ClassName": "dirtbikehelmet_police",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "dirtbikehelmet_mouthguard",
+                "dirtbikehelmet_visor"
+            ],
+            "Variants": [
                 "dirtbikehelmet_red",
                 "dirtbikehelmet_green",
                 "dirtbikehelmet_blue",
                 "dirtbikehelmet_black",
                 "dirtbikehelmet_khaki"
             ]
-        },
+        }, 
+        {
+            "ClassName": "dirtbikehelmet_red",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "dirtbikehelmet_mouthguard",
+                "dirtbikehelmet_visor"
+            ],
+            "Variants": [
+            ]
+        },                      
         {
             "ClassName": "dirtbikehelmet_black",
             "MaxPriceThreshold": 130,
@@ -179,20 +300,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "motohelmet_blue",
-                "motohelmet_red",
-                "motohelmet_yellow",
-                "motohelmet_white",
-                "motohelmet_grey",
-                "motohelmet_black",
-                "motohelmet_green",
-                "darkmotohelmet_lime",
-                "darkmotohelmet_blue",
-                "darkmotohelmet_red",
-                "darkmotohelmet_white",
-                "darkmotohelmet_grey",
-                "darkmotohelmet_black",
-                "darkmotohelmet_green"
             ]
         },
         {

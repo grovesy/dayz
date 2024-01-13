@@ -16,10 +16,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "medicalscrubshat_white",
-                "medicalscrubshat_green"
             ]
         },
+        {
+            "ClassName": "medicalscrubshat_white",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "medicalscrubshat_green",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
         {
             "ClassName": "cowboyhat_brown",
             "MaxPriceThreshold": 40,
@@ -30,14 +52,83 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "cowboyhat_black",
-                "cowboyhat_darkbrown",
-                "cowboyhat_green",
-                "expansioncowboyhatgator",
-                "expansioncowboyhatsnake",
-                "expansioncowboyhatrattlesnake"
             ]
         },
+        {
+            "ClassName": "cowboyhat_black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "cowboyhat_darkbrown",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "cowboyhat_green",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "expansioncowboyhatgator",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },
+        {
+            "ClassName": "expansioncowboyhatsnake",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },
+        {
+            "ClassName": "expansioncowboyhatrattlesnake",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },                                                                           
         {
             "ClassName": "militaryberet_chdkz",
             "MaxPriceThreshold": 52,
@@ -48,34 +139,60 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "militaryberet_red",
-                "militaryberet_un",
-                "militaryberet_cdf",
-                "militaryberet_nz"
+
             ]
         },
         {
-            "ClassName": "militaryberet_cdf",
-            "MaxPriceThreshold": 54,
-            "MinPriceThreshold": 27,
+            "ClassName": "militaryberet_red",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 26,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
+            "Variants": [
+            ]
+        },  
+        {
+            "ClassName": "militaryberet_un",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 26,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },   
+        {
+            "ClassName": "militaryberet_cdf",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 26,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },   
         {
             "ClassName": "militaryberet_nz",
-            "MaxPriceThreshold": 54,
-            "MinPriceThreshold": 27,
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 26,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
+            "Variants": [
+            ]
+        },                                 
+
+
         {
             "ClassName": "beaniehat_pink",
             "MaxPriceThreshold": 60,
@@ -152,15 +269,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "booniehat_navyblue",
-                "booniehat_orange",
-                "booniehat_red",
-                "booniehat_black",
-                "booniehat_tan",
-                "booniehat_olive",
-                "booniehat_dpm",
-                "booniehat_dubok",
-                "booniehat_flecktran"
             ]
         },
         {

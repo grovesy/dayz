@@ -16,9 +16,20 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masscbhelmet_green"
             ]
         },
+        {
+			"ClassName": "masscbhelmet_green",
+			"MaxPriceThreshold": 6000,
+			"MinPriceThreshold": 3000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },        
         {
 			"ClassName": "massmichblack",
 			"MaxPriceThreshold": 2300,

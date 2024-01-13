@@ -60,8 +60,30 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "witchhood_brown",
-                "witchhood_red"
+            ]
+        },
+        {
+            "ClassName": "witchhood_brown",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "witchhood_red",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
             ]
         }
     ]

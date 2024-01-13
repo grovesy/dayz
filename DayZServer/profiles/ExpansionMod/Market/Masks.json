@@ -100,11 +100,44 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "balaclava3holes_blue",
-                "balaclava3holes_black",
-                "balaclava3holes_green"
             ]
         },
+        {
+            "ClassName": "balaclava3holes_blue",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+            "ClassName": "balaclava3holes_black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },    
+        {
+            "ClassName": "balaclava3holes_green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                           
         {
             "ClassName": "balaclava3holes_black",
             "MaxPriceThreshold": 110,
@@ -181,8 +214,19 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "mimemask_male"
             ]
-        }
+        },
+        {
+            "ClassName": "mimemask_male",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }        
     ]
 }

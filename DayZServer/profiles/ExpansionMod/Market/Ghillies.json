@@ -16,10 +16,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghilliehood_woodland",
-                "ghilliehood_mossy"
             ]
         },
+        {
+            "ClassName": "ghilliehood_woodland",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ghilliehood_mossy",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                        
         {
             "ClassName": "ghilliebushrag_tan",
             "MaxPriceThreshold": 800,
@@ -30,10 +52,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghilliebushrag_woodland",
-                "ghilliebushrag_mossy"
             ]
         },
+        {
+            "ClassName": "ghilliebushrag_woodland",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+            "ClassName": "ghilliebushrag_mossy",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                     
         {
             "ClassName": "ghillietop_tan",
             "MaxPriceThreshold": 1200,
@@ -44,10 +88,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghillietop_woodland",
-                "ghillietop_mossy"
             ]
         },
+        {
+            "ClassName": "ghillietop_woodland",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ghillietop_mossy",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
         {
             "ClassName": "ghilliesuit_tan",
             "MaxPriceThreshold": 2000,
@@ -58,8 +124,30 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghilliesuit_woodland",
-                "ghilliesuit_mossy"
+            ]
+        },                
+        {
+            "ClassName": "ghilliesuit_woodland",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
+        {
+            "ClassName": "ghilliesuit_mossy",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
             ]
         }
     ]

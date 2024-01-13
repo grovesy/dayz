@@ -16,12 +16,55 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "chemlight_green",
-                "chemlight_red",
-                "chemlight_white",
-                "chemlight_yellow"
             ]
         },
+        {
+            "ClassName": "chemlight_green",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+            "ClassName": "chemlight_red",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
+            "ClassName": "chemlight_white",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },        
+        {
+            "ClassName": "chemlight_yellow",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                                       
         {
             "ClassName": "roadflare",
             "MaxPriceThreshold": 8,
@@ -128,7 +171,6 @@
                 "battery9v"
             ],
             "Variants": [
-                "headtorch_grey"
             ]
         },
         {

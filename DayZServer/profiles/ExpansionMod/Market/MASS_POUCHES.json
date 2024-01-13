@@ -16,12 +16,24 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masslargeplatecarrierpouches_black",
-                "masslargeplatecarrierpouches_tan"
             ]
         },
         {
-			"ClassName": "massplatecarrierholster_black",
+			"ClassName": "masslargeplatecarrierpouches_black",
+			"MaxPriceThreshold": 2400,
+			"MinPriceThreshold": 2200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "masslargeplatecarrierpouches_tan"
+            ]
+        },
+                
+        {
+			"ClassName": "massplatecarrierholster_winter",
 			"MaxPriceThreshold": 420,
 			"MinPriceThreshold": 360,
 			"SellPricePercent": -1,
@@ -30,9 +42,6 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massplatecarrierholster_odg",
-                "massplatecarrierholster_partizanm",
-                "massplatecarrierholster_winter"
             ]
         },
         {
@@ -45,11 +54,45 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massplatecarrierpouches_odg",
-                "massplatecarrierpouches_partizanm",
+            ]
+        },
+        {
+			"ClassName": "massplatecarrierpouches_odg",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massplatecarrierpouches_partizanm",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
                 "massplatecarrierpouches_winter"
             ]
         },
+        {
+			"ClassName": "massplatecarrierpouches_winter",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                     
         {
 			"ClassName": "masslargemollepouch",
 			"MaxPriceThreshold": 600,
@@ -60,11 +103,46 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masslargemollepouchblack",
-                "masslargemollepouchgorka",
-                "masslargemollepouchgreen"
             ]
         },
+        {
+			"ClassName": "masslargemollepouchblack",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [                            
+            ]
+        },        
+        {
+			"ClassName": "masslargemollepouchgorka",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "masslargemollepouchgreen"
+            ]
+        },       
+        {
+			"ClassName": "masslargemollepouchgreen",
+			"MaxPriceThreshold": 600,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [                
+            ]
+        },       
+
         {
 			"ClassName": "masstacticalbag",
 			"MaxPriceThreshold": 800,
@@ -75,9 +153,31 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masstacticalbagblack",
-                "masstacticalbagwd"
             ]
-        }
+        },
+        {
+			"ClassName": "masstacticalbagblack",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "masstacticalbagwd",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }                
     ]
 }

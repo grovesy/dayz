@@ -64,6 +64,18 @@
             ]
         },
         {
+			"ClassName": "massdetectivecoat_black",
+			"MaxPriceThreshold": 200,
+			"MinPriceThreshold": 100,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },		
+        {
 			"ClassName": "massgdshirt",
 			"MaxPriceThreshold": 22,
 			"MinPriceThreshold": 11,
@@ -95,10 +107,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massgorkainvertwintertop",
-                "massgorkainvertwoodlandtop"
             ]
         },
+        {
+			"ClassName": "massgorkainvertwintertop",
+			"MaxPriceThreshold": 280,
+			"MinPriceThreshold": 140,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massgorkainvertwoodlandtop",
+			"MaxPriceThreshold": 280,
+			"MinPriceThreshold": 140,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },				
         {
 			"ClassName": "massmandraketop",
 			"MaxPriceThreshold": 280,

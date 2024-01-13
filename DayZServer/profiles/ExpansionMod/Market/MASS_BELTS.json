@@ -16,12 +16,56 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmollebeltblack",
-                "massmollebeltodg",
-                "massmollebeltsnow",
-                "massmollebeltwd"
             ]
         },
+        {
+			"ClassName": "massmollebeltblack",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },   
+        {
+			"ClassName": "massmollebeltodg",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },  
+        {
+			"ClassName": "massmollebeltsnow",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },  
+        {
+			"ClassName": "massmollebeltwd",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                               
         {
 			"ClassName": "masstoolbelt",
 			"MaxPriceThreshold": 800,

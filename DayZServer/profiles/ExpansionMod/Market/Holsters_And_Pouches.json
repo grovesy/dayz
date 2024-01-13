@@ -27,11 +27,43 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "platecarrierholster_green",
-                "platecarrierholster_black",
-                "platecarrierholster_camo"
             ]
         },
+        {
+            "ClassName": "platecarrierholster_green",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },   
+        {
+            "ClassName": "platecarrierholster_black",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },    
+        {
+            "ClassName": "platecarrierholster_camo",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                         
         {
             "ClassName": "platecarrierholster_camo",
             "MaxPriceThreshold": 120,
@@ -53,11 +85,33 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "platecarrierpouches_green",
-                "platecarrierpouches_black",
-                "platecarrierpouches_camo"
             ]
         },
+        {
+            "ClassName": "platecarrierpouches_green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+    
+            ]
+        },
+        {
+            "ClassName": "platecarrierpouches_black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                     
         {
             "ClassName": "platecarrierpouches_camo",
             "MaxPriceThreshold": 200,

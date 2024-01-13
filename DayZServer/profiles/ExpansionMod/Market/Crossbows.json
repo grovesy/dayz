@@ -16,10 +16,43 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "crossbow_black",
-                "crossbow_summer",
-                "crossbow_wood"
             ]
-        }
+        },
+        {
+            "ClassName": "crossbow_black",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "crossbow_summer",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "crossbow_wood",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }                        
     ]
 }

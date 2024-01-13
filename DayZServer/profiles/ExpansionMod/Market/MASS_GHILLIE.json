@@ -16,10 +16,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghilliehood_woodland",
-                "massghilliehoodmossy"
             ]
         },
+        {
+			"ClassName": "massghilliehood_woodland",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 220,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massghilliehoodmossy",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 220,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
         {
 			"ClassName": "massghilliesuitmossy",
 			"MaxPriceThreshold": 2000,
@@ -30,10 +52,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghilliesuitsnow",
-                "massghilliesuitwoodland"
             ]
         },
+        {
+			"ClassName": "massghilliesuitsnow",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massghilliesuitwoodland",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
         {
 			"ClassName": "massghillietopmossy",
 			"MaxPriceThreshold": 1200,
@@ -44,10 +88,33 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghillietopsnow",
-                "massghillietopwoodland"
+
             ]
         },
+        {
+			"ClassName": "massghillietopsnow",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 600,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massghillietopwoodland",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 600,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
         {
 			"ClassName": "masswinterghilliewrap",
 			"MaxPriceThreshold": 800,
@@ -69,10 +136,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghilliesuitboxwinter",
-                "massghilliesuitboxwoodland"
             ]
         },
+        {
+			"ClassName": "massghilliesuitboxwinter",
+			"MaxPriceThreshold": 2400,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massghilliesuitboxwoodland",
+			"MaxPriceThreshold": 2400,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                
         {
 			"ClassName": "massghillietopboxmossy",
 			"MaxPriceThreshold": 1200,
@@ -83,9 +172,31 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massghillietopboxwinter",
-                "massghillietopboxwoodland"
             ]
-        }
+        },
+        {
+			"ClassName": "massghillietopboxwinter",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 600,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massghillietopboxwoodland",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 600,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }                
     ]
 }

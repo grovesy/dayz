@@ -16,11 +16,44 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "huntingbag",
-                "massbrownhuntingbp",
-                "masswinterhuntingbp"
             ]
         },
+        {
+			"ClassName": "huntingbag",
+			"MaxPriceThreshold": 1260,
+			"MinPriceThreshold": 1130,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massbrownhuntingbp",
+			"MaxPriceThreshold": 1260,
+			"MinPriceThreshold": 1130,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "masswinterhuntingbp",
+			"MaxPriceThreshold": 1260,
+			"MinPriceThreshold": 1130,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                                  
         {
 			"ClassName": "massblackyellowmb",
 			"MaxPriceThreshold": 1600,
@@ -31,14 +64,80 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "mountainbag_blue",
-                "mountainbag_green",
-                "mountainbag_orange",
-                "mountainbag_red",
-                "massczech",
-                "massczechwinter"
             ]
         },
+        {
+			"ClassName": "mountainbag_blue",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+			"ClassName": "mountainbag_green",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "mountainbag_orange",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "mountainbag_red",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massczech",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massczechwinter",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                                               
         {
 			"ClassName": "masscamotaloon",
 			"MaxPriceThreshold": 1100,
@@ -49,13 +148,56 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "taloonbag_blue",
-                "taloonbag_green",
-                "taloonbag_orange",
-                "taloonbag_violet",
-                "masscamotaloon1"
             ]
         },
+        {
+			"ClassName": "taloonbag_blue",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "taloonbag_green",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "taloonbag_violet",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "masscamotaloon1",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },             
         {
 			"ClassName": "masscanvasbag",
 			"MaxPriceThreshold": 800,
@@ -66,12 +208,56 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massbag",
-                "massbag2",
-                "massbag3",
-                "massbag4"
             ]
         },
+        {
+			"ClassName": "massbag",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+			"ClassName": "massbag2",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },       
+        {
+			"ClassName": "massbag3",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },       
+        {
+			"ClassName": "massbag4",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                      
         {
 			"ClassName": "masscoyotebpurban",
 			"MaxPriceThreshold": 1360,
@@ -93,10 +279,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masslargesmersh_black",
-                "masslargesmersh_tan"
             ]
         },
+        {
+			"ClassName": "masslargesmersh_black",
+			"MaxPriceThreshold": 1800,
+			"MinPriceThreshold": 1400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+			"ClassName": "masslargesmersh_tan",
+			"MaxPriceThreshold": 1800,
+			"MinPriceThreshold": 1400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                       
         {
 			"ClassName": "massmedbag",
 			"MaxPriceThreshold": 2000,
@@ -107,10 +315,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmedbag_blue",
-                "massmedbag_green"
             ]
         },
+        {
+			"ClassName": "massmedbag_blue",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massmedbag_green",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                 
         {
 			"ClassName": "massmedical_bag",
 			"MaxPriceThreshold": 1400,
@@ -121,10 +351,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmedical_bag_blue",
-                "massmedical_bag_green"
             ]
         },
+        {
+			"ClassName": "massmedical_bag_blue",
+			"MaxPriceThreshold": 1400,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massmedical_bag_green",
+			"MaxPriceThreshold": 1400,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                        
         {
 			"ClassName": "massmollebagblack",
 			"MaxPriceThreshold": 1500,
@@ -135,10 +387,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmollebagdesert",
-                "massmollebaggorka"
             ]
         },
+        {
+			"ClassName": "massmollebagdesert",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+			"ClassName": "massmollebaggorka",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 750,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                    
         {
 			"ClassName": "massnbc_bag",
 			"MaxPriceThreshold": 1200,
@@ -160,11 +434,44 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massruckbagdesert",
-                "massruckbaggorka",
-                "massruckbaggreen"
             ]
         },
+        {
+			"ClassName": "massruckbagdesert",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massruckbaggorka",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massruckbaggreen",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },         
         {
 			"ClassName": "massslingbag",
 			"MaxPriceThreshold": 3000,
@@ -175,10 +482,32 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massslingbagdesert",
-                "massslingbaggorka"
             ]
         },
+        {
+			"ClassName": "massslingbagdesert",
+			"MaxPriceThreshold": 3000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "massslingbaggorka",
+			"MaxPriceThreshold": 3000,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                     
         {
 			"ClassName": "masssmersh",
 			"MaxPriceThreshold": 1100,
@@ -189,11 +518,44 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masssmershblack",
-                "masssmershwinter",
-                "smershbag"
             ]
         },
+        {
+			"ClassName": "masssmershblack",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 950,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "masssmershwinter",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 950,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+			"ClassName": "smershbag",
+			"MaxPriceThreshold": 1100,
+			"MinPriceThreshold": 950,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                          
         {
 			"ClassName": "masssurvivorbag",
 			"MaxPriceThreshold": 1360,
@@ -204,10 +566,6 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "masssurvivorbag_black",
-                "masssurvivorbag_green",
-                "masssurvivorbag_tan",
-                "masssurvivorbag_winter"
             ]
         }
     ]

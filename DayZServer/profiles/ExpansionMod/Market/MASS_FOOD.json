@@ -16,7 +16,6 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmre10"
             ]
         },
         {
@@ -29,7 +28,6 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmre4"
             ]
         },
         {
@@ -42,7 +40,6 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmre9"
             ]
         },
         {
@@ -55,7 +52,6 @@
 			"QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "massmre9old"
             ]
         }
     ]

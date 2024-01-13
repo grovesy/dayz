@@ -104,13 +104,68 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "m18smokegrenade_green",
-                "m18smokegrenade_yellow",
-                "m18smokegrenade_purple",
-                "m18smokegrenade_white",
-                "expansion_m18smokegrenade_teargas"
             ]
         },
+        {
+            "ClassName": "m18smokegrenade_green",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+            "ClassName": "m18smokegrenade_yellow",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+            "ClassName": "m18smokegrenade_purple",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "m18smokegrenade_white",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }, 
+        {
+            "ClassName": "expansion_m18smokegrenade_teargas",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                                                    
         {
             "ClassName": "expansion_m18smokegrenade_teargas",
             "MaxPriceThreshold": 520,
@@ -132,9 +187,20 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "rdg2smokegrenade_white"
             ]
         },
+        {
+            "ClassName": "rdg2smokegrenade_white",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },        
         {
             "ClassName": "expansionsupplysignal",
             "MaxPriceThreshold": 2000000,

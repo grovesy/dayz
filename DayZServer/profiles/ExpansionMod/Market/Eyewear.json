@@ -16,11 +16,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "sportglasses_blue",
-                "sportglasses_black",
-                "sportglasses_green"
             ]
         },
+        {
+            "ClassName": "sportglasses_black",
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 17,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "sportglasses_green",
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 17,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },                      
         {
             "ClassName": "sportglasses_blue",
             "MaxPriceThreshold": 36,
@@ -141,14 +162,91 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "eyemask_blue",
-                "eyemask_christmas",
-                "eyemask_dead",
-                "eyemask_newyears",
-                "eyemask_red",
-                "eyemask_valentines",
-                "eyemask_yellow"
             ]
-        }
+        },
+        {
+            "ClassName": "eyemask_blue",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        } ,
+        {
+            "ClassName": "eyemask_christmas",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "eyemask_dead",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "eyemask_newyears",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "eyemask_red",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "eyemask_valentines",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "eyemask_yellow",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }       
     ]
 }
