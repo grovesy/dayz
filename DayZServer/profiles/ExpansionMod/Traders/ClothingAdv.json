@@ -15,7 +15,18 @@
         "Ghillies",
         "MMG_Gear",
         "MMG_Gear_Patches",
-        "Winstrider"
+        "Winstrider",
+        "Mass_Armbands",
+        "Mass_Bags",
+        "MASS_BELTS",
+        "MASS_GHILLIE",
+        "Mass_Hats",
+        "MASS_HELMETS_AND_MASKS",
+        "MASS_MISC",
+        "MASS_PANTS",
+        "MASS_POUCHES",
+        "Mass_Shirts",
+        "Mass_Vests"
     ],
     "Items": {}
 }

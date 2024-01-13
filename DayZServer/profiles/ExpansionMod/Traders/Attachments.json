@@ -15,7 +15,9 @@
         "Morty_Suppressors",
         "Morty_Scopes",
         "Morty_Extras",
-        "Morty_Ammo",
+        "Mass_Ammo",
+        "MASS_ATTACHMENTS",
+        "Morty_Mags",
         "Morty_Mags",
         "Snafu_Ammo",
         "Snafu_Bipods",
@@ -33,6 +35,10 @@
         "Buttstocks",
         "Handguards"
     ],
+
+
+
+
     "Items": {
         "expansionammorpg": 3,
         "ammo_expansion_m203_smoke_white": 3,

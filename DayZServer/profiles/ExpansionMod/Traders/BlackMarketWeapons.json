@@ -16,7 +16,8 @@
         "Snafu_Weapons",        
         "Explosives_And_Grenades",
         "CannabisPlus",
-        "DrugsPlus"        
+        "DrugsPlus",
+        "Mass_Guns"
     ],
     "Items": {
         "expansionammorpg": 3,

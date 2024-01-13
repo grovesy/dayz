@@ -100,7 +100,14 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="rag_mtvr_types.xml" type="types" />
 		<file name="rag_schoolbus_types.xml" type="types" />
 		<file name="rag_zil_130_types.xml" type="types" />					
-	</ce>		
+	</ce>
+
+	<!-- Mass -->
+	<ce folder="types">
+		<file name="massManyItemsOverhaulTypes.xml" type="types" />
+		<file name="massManyItemsOverhaulSpawnableTypes.xml" type="spawnabletypes" />
+	</ce>
+
 </economycore>
 
 
