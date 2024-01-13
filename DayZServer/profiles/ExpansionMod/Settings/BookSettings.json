@@ -1,5 +1,5 @@
 {
-    "m_Version": 4,
+    "m_Version": 5,
     "EnableStatusTab": 1,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 1,
@@ -27,7 +27,7 @@
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                    "RuleText": "Be friendly to fellow players and your team, both in chat and in voice!"
                 },
                 {
                     "RuleParagraph": "1.5.",
@@ -136,87 +136,22 @@
     ],
     "Links": [
         {
-            "Name": "Homepage",
-            "URL": "https://www.google.com/",
-            "IconName": "Homepage",
-            "IconColor": -14473430
-        },
-        {
-            "Name": "Feedback",
-            "URL": "https://www.google.com/",
-            "IconName": "Forums",
-            "IconColor": -14473430
-        },
-        {
             "Name": "Discord",
             "URL": "https://www.google.com/",
             "IconName": "Discord",
             "IconColor": -9270822
-        },
-        {
-            "Name": "Patreon",
-            "URL": "https://www.patreon.com/dayzexpansion",
-            "IconName": "Patreon",
-            "IconColor": -432044
-        },
-        {
-            "Name": "Steam",
-            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
-            "IconName": "Steam",
-            "IconColor": -14006434
-        },
-        {
-            "Name": "Reddit",
-            "URL": "https://www.reddit.com/r/ExpansionProject/",
-            "IconName": "Reddit",
-            "IconColor": -12386303
-        },
-        {
-            "Name": "GitHub",
-            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
-            "IconName": "GitHub",
-            "IconColor": -16777216
-        },
-        {
-            "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
-            "IconName": "YouTube",
-            "IconColor": -65536
-        },
-        {
-            "Name": "Twitter",
-            "URL": "https://twitter.com/DayZExpansion",
-            "IconName": "Twitter",
-            "IconColor": -14835214
         }
     ],
     "Descriptions": [
         {
             "CategoryName": "General Info",
             "Descriptions": [
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                }
+                
             ]
         },
         {
             "CategoryName": "Mod Info",
             "Descriptions": [
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                }
             ]
         }
     ],
@@ -373,5 +308,6 @@
                 "improvisedsuppressor"
             ]
         }
-    ]
+    ],
+    "EnableCraftingRecipesTab": 0
 }

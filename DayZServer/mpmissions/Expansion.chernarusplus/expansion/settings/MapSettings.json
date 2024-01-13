@@ -31,7 +31,22 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
-        }
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Klem",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Traders - Klen",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                11506.0205078125,
+                342.7486877441406,
+                11324.7216796875
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }        
     ],
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 1,

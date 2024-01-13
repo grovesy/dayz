@@ -58,8 +58,8 @@
     {
         "Type": 0,
         "Name": "Black Market",
-        "X": 8620.0,
-        "Z": 13250.0,
+        "X": 8600.0595703125,    
+        "Z": 13330.0,
         "Radius": 550,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 1,

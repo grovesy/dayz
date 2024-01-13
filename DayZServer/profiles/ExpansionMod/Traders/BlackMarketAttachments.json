@@ -1,5 +1,5 @@
 {
-    "m_Version": 11,
+    "m_Version": 12,
     "DisplayName": "BlackMarketWeapons",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
@@ -9,12 +9,14 @@
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
-    "Categories": [        
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
         "Morty_Suppressors",
         "Morty_Scopes",
         "Morty_Extras",
         "Morty_Ammo",
-        "Morty_Mags",            
+        "Morty_Mags",
         "Snafu_Ammo",
         "Snafu_Bipods",
         "Snafu_Extras",
@@ -34,14 +36,14 @@
     "Items": {
         "expansionammorpg": 3,
         "ammo_expansion_m203_smoke_white": 3,
-        "tlrlight": 3,
-        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "ammo_expansion_m203_he": 3,
         "universallight": 3,
+        "tlrlight": 3,
         "ammo_expansion_m203_smoke_teargas": 3,
         "flaregun": 1,
         "expansion_ammo_taser": 3,
-        "ammo_expansion_m203_he": 3,
-        "expansionammolaw": 3,
-        "ammo_expansion_m203_sticky_smoke_white": 3
+        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "ammo_expansion_m203_sticky_smoke_white": 3,
+        "expansionammolaw": 3
     }
 }

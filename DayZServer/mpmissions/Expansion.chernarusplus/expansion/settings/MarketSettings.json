@@ -1,5 +1,5 @@
 {
-    "m_Version": 12,
+    "m_Version": 13,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
@@ -21,7 +21,7 @@
         {
             "Position": [
                 3196.18994140625,
-                210.3500061035156,
+                210.35000610351563,
                 6099.0556640625
             ],
             "Orientation": [
@@ -33,104 +33,30 @@
         {
             "Position": [
                 3193.0,
-                212.3500061035156,
-                6915.00
+                212.35000610351563,
+                6915.0
             ],
             "Orientation": [
                 24.0,
                 0.0,
                 0.0
             ]
-        }
+        },
+        {
+            "Position": [
+                11478.0,
+                345.0,
+                11306.0 
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        }        
     ],
-    "AirSpawnPositions": [
-        {
-            "Position": [
-                12178.900390625,
-                140.0,
-                12638.400390625
-            ],
-            "Orientation": [
-                -157.1999969482422,
-                0.0,
-                0.0
-            ]
-        }
-    ],
-    "WaterSpawnPositions": [
-        {
-            "Position": [
-                1759.0,
-                0.0,
-                1994.0
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14347.7998046875,
-                0.0,
-                13235.7998046875
-            ],
-            "Orientation": [
-                -147.5,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14344.099609375,
-                0.0,
-                13219.7001953125
-            ],
-            "Orientation": [
-                -147.5,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14360.900390625,
-                0.0,
-                13246.7001953125
-            ],
-            "Orientation": [
-                -147.5,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                1760.0,
-                0.0,
-                1730.0
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14540.0,
-                0.0,
-                12995.0
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        }
-    ],
+    "AirSpawnPositions": [],
+    "WaterSpawnPositions": [],
     "MarketMenuColors": {
         "BaseColorVignette": "000000C8",
         "BaseColorHeaders": "13171BFF",
