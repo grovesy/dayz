@@ -993,7 +993,7 @@
                 "mmg_gp_nvg_green",
                 "mmg_gp_nvg_grey"
             ]
-        },
+        },        
 		{
 			"ClassName": "mmg_cargobelt_black",
 			"MaxPriceThreshold": 2000,

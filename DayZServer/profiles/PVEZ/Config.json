@@ -5,7 +5,7 @@
         "Show_Notifications": 1,
         "Use_UI_Notifications": 1,
         "Add_Zone_Name_To_Message": 1,
-        "Exit_Zone_Countdown": 30.0,
+        "Exit_Zone_Countdown": 20.0,
         "Force1stPersonInPVP": 0,
         "Week_Starts_On_Sunday": 0,
         "Custom_Enter_Zone_Message": "",

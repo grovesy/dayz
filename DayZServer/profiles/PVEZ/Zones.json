@@ -194,5 +194,19 @@
             "StartHour": 0,
             "EndHour": 24
         }
-    }    
+    },
+    {
+        "Type": 0,
+        "Name": "zeleno",
+        "X": 2515.1611328125,
+        "Z": 193.01248168945313,        
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
 ]
