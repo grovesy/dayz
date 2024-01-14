@@ -200,7 +200,7 @@
         "Name": "zeleno",
         "X": 2515.1611328125,
         "Z": 5078.7626953125,
-        "Radius": 500,
+        "Radius": 300,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,
         "Activity_Schedule": {

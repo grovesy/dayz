@@ -1,7 +1,7 @@
 {
     "m_Version": 4,
     "CanBuildAnywhere": 0,
-    "AllowBuildingWithoutATerritory": 1,
+    "AllowBuildingWithoutATerritory": 0,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
         "Fireplace",
@@ -47,7 +47,7 @@
     "DamageWhenEnterWrongCodeLock": 10.0,
     "RememberCode": 1,
     "CanCraftTerritoryFlagKit": 1,
-    "SimpleTerritory": 1,
+    "SimpleTerritory": 0,
     "AutomaticFlagOnCreation": 0,
     "GetTerritoryFlagKitAfterBuild": 0,
     "BuildZoneRequiredCustomMessage": "",
@@ -71,7 +71,7 @@
                 "ExplosivesBase"
             ],
             "IsWhitelist": 1,
-            "CustomMessage": ""
+            "CustomMessage": "You cannot build within 1000m of the Klen Trader"
         },
         {
             "Name": "ProudChernarus",
@@ -92,7 +92,7 @@
                 "ExplosivesBase"
             ],
             "IsWhitelist": 1,
-            "CustomMessage": ""
+            "CustomMessage": "You cannot build within 1000m of the Proud Chernarus Trader"
         },
         {
             "Name": "Krasnostav Airstrip",
@@ -417,7 +417,7 @@
                 297.3500061035156,
                 5078.7626953125
             ],           
-            "Radius": 500,
+            "Radius": 350,
             "Items": [
                 "Fireplace",
                 "LandMineTrap",
@@ -429,7 +429,7 @@
                 "ExplosivesBase"
             ],
             "IsWhitelist": 1,
-            "CustomMessage": ""        
+            "CustomMessage": "You cannot build within 50m of the Zeleno PVP zone"        
         }
     ],
     "ZonesAreNoBuildZones": 1,
