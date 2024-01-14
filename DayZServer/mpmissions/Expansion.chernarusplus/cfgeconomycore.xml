@@ -108,6 +108,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="massManyItemsOverhaulSpawnableTypes.xml" type="spawnabletypes" />
 	</ce>
 
+	<!-- Base Building Plius -->
+	<ce folder="types">
+		<file name="base_building_plus_types.xml" type="types" />
+	</ce>	
+
 </economycore>
 
 
