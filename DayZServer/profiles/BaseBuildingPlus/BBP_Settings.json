@@ -32,6 +32,7 @@
     "BBP_Tier1RaidToolDamage": 50,
     "BBP_Tier2RaidToolDamage": 100,
     "BBP_Tier3RaidToolDamage": 1000,
+    
     "BBP_BuildTools": [
         "Hammer",
         "Hatchet"
