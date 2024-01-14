@@ -12,6 +12,9 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
+        "Ammo",
+        "Ammo_Boxes",
+        
         "Morty_Suppressors",
         "Morty_Scopes",
         "Morty_Extras",
