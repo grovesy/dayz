@@ -12,12 +12,12 @@
     "punishLoss": 0,
     "baseCaptureTime": 900.0,
     "maxTimeBetweenEvents": 900.0,
-    "minTimeBetweenEvents": 60.0,
+    "minTimeBetweenEvents": 90.0,
     "playerTimeMultiplier": 1.5,
-    "timeDespawn": 120.0,
-    "timeLimit": 0.0,
+    "timeDespawn": 900.0,
+    "timeLimit": 2100.0,
     "timeStart": 30.0,
-    "timeSpawn": 900.0,
+    "timeSpawn": 300.0,
     "timeZoneCooldown": 120.0,
     "minPlayerCount": 1,
     "maxEnemyCount": 50,
@@ -25,7 +25,7 @@
     "maxEvents": 1,
     "minimumDeaths": 0,
     "minimumPlayers": 1,
-    "maximumPlayers": 4,
+    "maximumPlayers": 99,
     "rewardCount": 2,
     "flagClassname": "Flag_DayZ",
     "enemies": [
@@ -44,7 +44,7 @@
         "Radioactive_Wolf_Tough"
     ],
     "lootCrate": "KOTH_Chest",
-    "crateLifeTime": 600,
+    "crateLifeTime": 900,
     "lootSets": [],
     "zones": [
         {
