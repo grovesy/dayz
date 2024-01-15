@@ -272,6 +272,7 @@
    "copyModDeepCompare": false,
    "updateModsMaxBatchSize": 5,
    "updateModsMaxBatchFileSize": 1000000000,
+   
    "events": [
       {
          "name": "Restart every 4 hours",
