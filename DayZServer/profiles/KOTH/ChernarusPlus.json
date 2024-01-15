@@ -29,7 +29,7 @@
     "rewardCount": 2,
     "flagClassname": "Flag_DayZ",
     "enemies": [
-        "Radioactive_Bear_Tough",        
+        "Radioactive_Bear_Tough",
         "Radioactive_Wolf_Tough",
         "Radioactive_Wolf_Tough",
         "Radioactive_Wolf_Tough"
@@ -80,7 +80,7 @@
             "lootCrate": "",
             "crateLifeTime": -1,
             "lootSets": []
-        },        
+        },
         {
             "zoneName": "Kamensk Military",
             "zonePosition": [
@@ -124,7 +124,6 @@
             "crateLifeTime": -1,
             "lootSets": []
         },
-        
         {
             "zoneName": "Krasno Airfield",
             "zonePosition": [
@@ -168,7 +167,6 @@
             "crateLifeTime": -1,
             "lootSets": []
         },
-        
         {
             "zoneName": "Pavlovo Military",
             "zonePosition": [

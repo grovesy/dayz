@@ -6,31 +6,27 @@
                 {
                     "name": "DP_CocaBrick",
                     "quantity": -1,
-                    "attachments": [                      
-                    ],
+                    "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "DP_CocaBrick",
                     "quantity": -1,
-                    "attachments": [                      
-                    ],
+                    "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "DP_CocaBrick",
                     "quantity": -1,
-                    "attachments": [                      
-                    ],
+                    "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "DP_CocaBrick",
                     "quantity": -1,
-                    "attachments": [                      
-                    ],
+                    "attachments": [],
                     "cargo": []
-                }                
+                }
             ]
         },
         {
@@ -39,36 +35,35 @@
                 {
                     "name": "SNAFUKivaari_Black_GUN",
                     "quantity": -1,
-                    "attachments": [                       
-                    ],
+                    "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SNAFUKivaari_Black_GUN",
                     "quantity": -1,
-                    "attachments": [                       
-                    ],
+                    "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "MMG_MK_V_Armor_black",
                     "quantity": -1,
-                    "attachments": [ 
+                    "attachments": [
                         {
                             "name": "MMG_mk5_utility_pouch_black",
                             "quantity": -1,
-                            "attachments": []                        
+                            "attachments": [],
+                            "cargo": []
                         },
                         {
                             "name": "MMG_mk5_grenade_pouch_black",
                             "quantity": -1,
-                            "attachments": []                        
+                            "attachments": [],
+                            "cargo": []
                         }
-                        
                     ],
                     "cargo": []
                 }
             ]
-        }                
+        }
     ]
 }
